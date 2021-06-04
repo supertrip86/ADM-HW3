@@ -56,7 +56,6 @@ At this point, you should have all the html documents about the books of interes
 11. Setting
 12. Url
 
-![Example Wikipedia](books.png)
 
 
 For each book, you create a `article_i.tsv` file of this structure:
